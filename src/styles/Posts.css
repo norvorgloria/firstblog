@@ -1,0 +1,22 @@
+.blog {
+    height: 40vmin;
+    pointer-events: none;
+  }
+
+ .homepage {
+    background: #e4e4e4;
+    padding: 30px;
+ } 
+
+ .blogpost {
+    background: #ffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+ }
+
+ .blogtitle {
+    text-decoration: underline;
+    padding-bottom: 10px;
+ }
